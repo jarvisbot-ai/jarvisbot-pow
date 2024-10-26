@@ -1,0 +1,24 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame" clip-path="url(#clip0_1741_144573)">
+<rect width="16" height="16" fill="white" fill-opacity="0.28"/>
+<g id="Mask group">
+<mask id="mask0_1741_144573" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<g id="Group">
+<g id="Group_2">
+<path id="Vector" d="M7.00016 12.6654C10.1298 12.6654 12.6668 10.1284 12.6668 6.9987C12.6668 3.86903 10.1298 1.33203 7.00016 1.33203C3.8705 1.33203 1.3335 3.86903 1.3335 6.9987C1.3335 10.1284 3.8705 12.6654 7.00016 12.6654Z" fill="white" stroke="white" stroke-width="2.33333" stroke-linejoin="round"/>
+<path id="Vector_2" d="M7.00004 5V9M5.00537 7.00533L9.00004 7" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M11.0742 11.0742L13.9026 13.9026" stroke="white" stroke-width="2.33333" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</mask>
+<g mask="url(#mask0_1741_144573)">
+<path id="Vector_4" d="M0 0H16V16H0V0Z" fill="black"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1741_144573">
+<rect width="16" height="16" fill="white"/>
+</clipPath>
+</defs>
+</svg>
